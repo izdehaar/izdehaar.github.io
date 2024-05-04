@@ -1,0 +1,21 @@
+{
+    "short_name": "portfolio",
+    "name": "ezdehaar porfolio",
+    "icons": [
+        {
+            "src": "https://ezdehaar.tech/assets/img/tech/image4.jpg?h=e138a8bfe4ed72819d3bbf626d732745",
+            "type": "image/jpeg",
+            "sizes": "1600x1068"
+        },
+        {
+            "src": "https://ezdehaar.tech/assets/img/nature/image1.jpg?h=d679710e5ce8e4c2db35fde74a78a924",
+            "type": "image/jpeg",
+            "sizes": "800x533"
+        }
+    ],
+    "start_url": "https://ezdehaar.me/",
+    "background_color": "#7480eb",
+    "theme_color": "#4797e0",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
